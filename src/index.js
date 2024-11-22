@@ -37,7 +37,7 @@ export const GumletEmbedPlayer = ({ video_id, style, enabled_player_control, req
         source={{ 
           uri: srcURL.toString(),
           headers: {
-            'x-requested-with': `${requested_with || 'gumlet-react-native-embed-player'}`,
+            'x-requested-with': `${requested_with || 'gumletreact-native-embed-player'}`,
           },
         }}
         style={style}

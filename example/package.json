@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@gumlet/react-native-embed-player": "file:..",
+    "@gumlet/reactnative-embed-player": "file:..",
     "react": "18.3.1",
     "react-native": "0.76.3",
     "react-native-webview": "^13.12.4"

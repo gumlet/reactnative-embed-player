@@ -1,5 +1,5 @@
 {
-  "name": "@gumlet/react-native-embed-player",
+  "name": "@gumlet/reactnative-embed-player",
   "version": "1.0.0",
   "description": "Gumlet Embed player for react native",
   "main": "index.js",

@@ -1,4 +1,4 @@
-# @gumlet/react-native-embed-player
+# @gumlet/reactnative-embed-player
 
 > Gumlet Embed player in react native
 
