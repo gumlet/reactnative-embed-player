@@ -1,0 +1,6 @@
+node_modules
+example
+android
+ios
+__tests__
+*.md
